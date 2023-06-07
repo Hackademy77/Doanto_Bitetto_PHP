@@ -138,7 +138,7 @@ if ($colorePreferito == "nero") {
     echo "ATTENZIONE: nessun colore trovato";
 } */
 
-/* $colorePreferito = "bianco";
+$colorePreferito = "bianco";
 switch ($colorePreferito) {
     case "nero":
         echo "Il nero è il tuo colore preferito";
@@ -154,7 +154,7 @@ switch ($colorePreferito) {
         break;
     default:
         echo "ATTENZIONE: nessun colore trovato";
-} */
+}
 
 //?3. iterazione: ci permette di riutilizzare una sequenza di istruzioni
 //? l'iterazione deve essere formato da:
