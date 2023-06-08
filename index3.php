@@ -1,5 +1,7 @@
 <?php
 
+//!codice procedurale
+
 //validazione di una password (validazione: controllare se un input rispetti determinate condizioni)
     //la password deve essere lunga almeno 8 caratteri
     //deve contenere almeno un numero
